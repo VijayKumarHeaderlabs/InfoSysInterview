@@ -1,0 +1,6 @@
+framework module Pods_InfoSysInterview {
+  umbrella header "Pods-InfoSysInterview-umbrella.h"
+
+  export *
+  module * { export * }
+}
